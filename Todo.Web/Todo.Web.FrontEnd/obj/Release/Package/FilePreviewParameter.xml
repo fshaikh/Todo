@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/Todo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\fshaikh\\Documents\\Visual\ Studio\ 2012\\Projects\\ToDo\\Code\\Production\\Todo\.Web\\Todo\.Web\.FrontEnd\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\fshaikh\\Documents\\Visual\ Studio\ 2012\\Projects\\ToDo\\Code\\Production\\Todo\.Web\\Todo\.Web\.FrontEnd\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

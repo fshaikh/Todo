@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.WebApi", "Todo.WebApi\Todo.WebApi.csproj", "{438F5411-7B40-43DB-9644-9645BD22100C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Web.Common", "Todo.Web.Common\Todo.Web.Common.csproj", "{C3CE541D-BAD2-41A7-A158-598D17443CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Web.FrontEnd", "Todo.Web.FrontEnd\Todo.Web.FrontEnd.csproj", "{1A6B720C-91C5-4B6A-ADFE-1185CCCB13F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438F5411-7B40-43DB-9644-9645BD22100C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F5411-7B40-43DB-9644-9645BD22100C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F5411-7B40-43DB-9644-9645BD22100C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F5411-7B40-43DB-9644-9645BD22100C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CE541D-BAD2-41A7-A158-598D17443CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CE541D-BAD2-41A7-A158-598D17443CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CE541D-BAD2-41A7-A158-598D17443CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CE541D-BAD2-41A7-A158-598D17443CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6B720C-91C5-4B6A-ADFE-1185CCCB13F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6B720C-91C5-4B6A-ADFE-1185CCCB13F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6B720C-91C5-4B6A-ADFE-1185CCCB13F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6B720C-91C5-4B6A-ADFE-1185CCCB13F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

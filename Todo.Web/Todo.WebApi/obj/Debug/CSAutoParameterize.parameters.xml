@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MongoDbConnectionString-Web.config Connection String" description="MongoDbConnectionString Connection String used in web.config by the application to access the database." defaultValue="mongodb://localhost/TodoDb" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\fshaikh\\Documents\\Visual\ Studio\ 2012\\Projects\\ToDo\\Code\\Production\\Todo\.Web\\Todo\.WebApi\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MongoDbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

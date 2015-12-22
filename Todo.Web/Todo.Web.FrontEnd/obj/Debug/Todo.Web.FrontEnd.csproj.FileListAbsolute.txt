@@ -1,0 +1,5 @@
+C:\Users\fshaikh\Documents\Visual Studio 2012\Projects\ToDo\Code\Production\Todo.Web\Todo.Web.FrontEnd\bin\Todo.Web.FrontEnd.dll
+C:\Users\fshaikh\Documents\Visual Studio 2012\Projects\ToDo\Code\Production\Todo.Web\Todo.Web.FrontEnd\bin\Todo.Web.FrontEnd.pdb
+C:\Users\fshaikh\Documents\Visual Studio 2012\Projects\ToDo\Code\Production\Todo.Web\Todo.Web.FrontEnd\obj\Debug\Todo.Web.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\fshaikh\Documents\Visual Studio 2012\Projects\ToDo\Code\Production\Todo.Web\Todo.Web.FrontEnd\obj\Debug\Todo.Web.FrontEnd.dll
+C:\Users\fshaikh\Documents\Visual Studio 2012\Projects\ToDo\Code\Production\Todo.Web\Todo.Web.FrontEnd\obj\Debug\Todo.Web.FrontEnd.pdb

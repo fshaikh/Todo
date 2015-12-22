@@ -1,0 +1,7 @@
+﻿input.ng-pristine{
+    background-color:green;
+}
+
+input.ng-dirty{
+    background-color:red;
+}
